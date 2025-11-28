@@ -12,7 +12,9 @@ dependencies = [
   "numpy<2",
   "ipykernel",
   "fastai",
-
+  "deepface",
+  "tf-keras",
+  "nbconvert"
 ]
 
 [tool.pip]
